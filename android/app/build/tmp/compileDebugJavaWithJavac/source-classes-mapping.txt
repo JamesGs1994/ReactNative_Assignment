@@ -1,0 +1,14 @@
+com/assignment/MainActivity.java
+ com.assignment.MainActivity
+com/assignment/ReactNativeFlipper.java
+ com.assignment.ReactNativeFlipper
+ com.assignment.ReactNativeFlipper$1
+ com.assignment.ReactNativeFlipper$2
+ com.assignment.ReactNativeFlipper$2$1
+com/assignment/MainApplication.java
+ com.assignment.MainApplication
+ com.assignment.MainApplication$1
+com/assignment/BuildConfig.java
+ com.assignment.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

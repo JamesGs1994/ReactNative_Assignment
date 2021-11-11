@@ -1,0 +1,16 @@
+#Sat Sep 04 13:59:02 IST 2021
+path.3=2/classes.dex
+path.2=14/classes.dex
+path.1=0/classes.dex
+renamed.4=classes5.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+base.4=E\:\\React-native\\Assignment\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+renamed.0=classes.dex
+base.3=E\:\\React-native\\Assignment\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.2=E\:\\React-native\\Assignment\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.1=E\:\\React-native\\Assignment\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=E\:\\React-native\\Assignment\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.4=0/classes.dex
